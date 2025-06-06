@@ -72,8 +72,7 @@ To provide the predownloaded AlphaFold2 databases and parameters you can specify
 
 <details markdown="1">
 <summary>Directory structure</summary>
-```console
-
+```
 ├── alphafold_params_2022-12-06
 │   ├── LICENSE
 │   ├── params_model_1_multimer.npz
@@ -264,8 +263,7 @@ If you specify the `--colabfold_db <PATH>` parameter, the directory structure of
 
 <details markdown="1">
 <summary>Directory structure</summary>
-```console
-  
+```
 ├── colabfold_envdb_202108
 │   ├── colabfold_envdb_202108_db.0
 │   ├── colabfold_envdb_202108_db.1
